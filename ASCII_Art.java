@@ -9,7 +9,7 @@ public class ASCII_Art
 
     public static void main(String[] args)
     {
-        File image = new File("/Users/shrabin/Desktop/Project_Files/Java/Art/mario_jump.jpeg"); //add path of the file
+        File image = new File("Art/mario_jump.jpeg"); //add path of the file
         int height = 0;
         int width = 0;
 
